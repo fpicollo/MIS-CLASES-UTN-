@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535071441 source:/home/alumno/Descargas/MIS-CLASES-UTN-/prueba/main.c
+	<stdio.h>
+	<stdlib.h>
+
