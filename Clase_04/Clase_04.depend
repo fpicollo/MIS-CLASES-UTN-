@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1535676902 source:/home/alumno/Documentos/Facundo/MIS-CLASES-UTN-/Clase_04/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1535676579 source:/home/alumno/Documentos/Facundo/MIS-CLASES-UTN-/Clase_04/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1535676073 /home/alumno/Documentos/Facundo/MIS-CLASES-UTN-/Clase_04/utn.h
+
