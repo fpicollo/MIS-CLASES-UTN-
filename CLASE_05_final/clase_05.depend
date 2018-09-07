@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1536190708 source:/home/profesor/Ernesto/LABO1/Clase04/clase_05/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1535674282 /home/profesor/Ernesto/LABO1/Clase04/clase_05/utn.h
+
+1536188598 source:/home/profesor/Ernesto/LABO1/Clase04/clase_05/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536272403 source:/home/profesor/Documentos/davilas/CLASE_05/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"array.h"
+
+1536272239 /home/profesor/Documentos/davilas/CLASE_05/utn.h
+
+1536188598 source:/home/profesor/Documentos/davilas/CLASE_05/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536272236 /home/profesor/Documentos/davilas/CLASE_05/array.h
+
+1536271350 source:/home/profesor/Documentos/davilas/CLASE_05/array.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1536280854 source:/home/alumno/Documentos/Facundo Picollo/MIS-CLASES-UTN-/CLASE_05_final/main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"array.h"
+
+1536275538 /home/alumno/Documentos/Facundo Picollo/MIS-CLASES-UTN-/CLASE_05_final/utn.h
+
+1536280665 /home/alumno/Documentos/Facundo Picollo/MIS-CLASES-UTN-/CLASE_05_final/array.h
+
+1536275538 source:/home/alumno/Documentos/Facundo Picollo/MIS-CLASES-UTN-/CLASE_05_final/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"utn.h"
+
+1536280929 source:/home/alumno/Documentos/Facundo Picollo/MIS-CLASES-UTN-/CLASE_05_final/array.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
